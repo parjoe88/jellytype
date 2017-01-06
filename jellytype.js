@@ -24,7 +24,7 @@
           console.log('test');
         }
 
-        $.fn.jullytype = function (text, Intervals, effect) {
+        $.fn.jellytype = function (text, Intervals, effect) {
             var text = text || defaults.text;
             var effect = effect || defaults.effect;
             var Intervals = Intervals || defaults.Intervals;
